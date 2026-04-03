@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=C58361&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+William+%F0%9F%91%8B;Software+Engineer;Computer+Science+%40+FIU;SWE+Intern+%40+Datadog;Fullstack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=C58361&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+William+%F0%9F%91%8B;Software+Engineer;Computer+Science+%40+FIU;SWE+Intern+%40+Datadog;" alt="Typing SVG" /></a>
 <p>
   <a href="https://linkedin.com/in/williamdelaosa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:wdelaosa24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -63,8 +63,8 @@ I'm a Computer Science student at Florida International University, passionate a
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WillDela&show_icons=true&bg_color=1A2F23&text_color=FDFBF7&icon_color=C58361&title_color=C58361&border_radius=0&hide_border=true" alt="William's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WillDela&background=1A2F23&ring=C58361&fire=C58361&currStreakNum=FDFBF7&sideLabels=FDFBF7&currStreakLabel=FDFBF7&border_radius=0&hide_border=true" alt="William's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WillDela&show_icons=true&bg_color=0D1117&text_color=FFFFFF&icon_color=C58361&title_color=C58361&hide_border=true" alt="William's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=WillDela&background=0D1117&ring=C58361&fire=C58361&currStreakNum=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF&hide_border=true" alt="William's GitHub Streak" />
 </div>
 
 ---
