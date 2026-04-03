@@ -6,12 +6,12 @@
 </p>
 
 ## About Me
-I'm a passionate Software Engineer and student at Florida International University. My interests lie in full-stack web development, backend architecture, and building AI-driven applications. I care about writing code that solves real problems, and I am always eager to learn new technologies. When I'm not pushing code, you can find me training for my next marathon.
+I'm a passionate Software Engineer and student at Florida International University. My interests lie in full-stack development, backend architecture, and building AI-driven applications. I care about writing code that solves real problems, and I am always eager to learn new technologies. You can find me running on my free time with Panthers Run Club of FIU!
 
 - 🔭 **Currently working on** my skills in Golang and expanding the Korsana platform.
-- 🌱 **Latest development:** Korsana - a full-stack AI coaching platform combining Strava data with Claude AI.
+- 🌱 **Latest development:** Korsana - a full-stack AI coaching platform using Strava data.
 - 🏆 **Recent Win:** Best Authentication Hack at ShellHacks 2025 for *Sylly* (AI Syllabus Planner vs. 245 teams).
-- 📍 **Based in** Miami, FL (Open to NYC Summer 2026).
+- 📍 **Based in** Miami, FL (NYC Summer 2026).
 
 ## 🛠️ Skills & Technologies
 
