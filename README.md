@@ -63,7 +63,7 @@ I'm a Computer Science student at Florida International University, passionate a
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=WillDela&theme=tokyonight&hide_border=true&v=2" alt="William's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=WillDela&theme=tokyonight&hide_border=true&timezone=America%2FNew_York&v=3" alt="William's GitHub Streak" />
 </div>
 
 ---
