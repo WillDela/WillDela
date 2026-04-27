@@ -63,11 +63,7 @@ I'm a Computer Science student at Florida International University, passionate a
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=WillDela&theme=tokyonight&hide_border=true&timezone=America%2FNew_York&v=3" alt="William's GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WillDela&color=38bdf8&style=flat-square&label=Profile+Views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WillDela&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="William's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillDela&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
