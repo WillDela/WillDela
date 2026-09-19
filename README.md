@@ -12,8 +12,12 @@
 ### About Me
 I'm a Computer Science student at Florida International University, passionate about building scalable software systems. My interests span across full-stack development, applied machine learning, and high-performance backend architectures. I enjoy solving real-world problems through data-driven approaches and am always eager to learn new technologies. Outside of coding, I'm the President & Co-Founder of the Panthers Run Club!
 - 🔭 **Previous:** Software Engineer Intern at **Datadog** (Summer 2026)
-- 🌱 **Currently building:** **Korsana**, a full-stack AI-powered coaching platform
-- 🏆 **Recent Win:** Best Authentication Hack at ShellHacks 2025 for *Sylly* (AI Syllabus Planner vs. 245 teams)
+- 🌱 **Currently building:** **[Korsana](https://www.korsana.run)**, a full-stack AI-powered coaching platform
+- 🏆 **[Recent Hackathon Wins](https://devpost.com/WillDela/challenges):**
+  - 2nd Place for FIU PawlinaWalk at HackShells (September 2026 Edition)
+  - 1st Place for LegalEase at HackShells (April 2026 Edition)
+  - Best Authentication at ShellHacks 2025 for *Sylly* (vs. 245 teams)
+
 - 📍 **Based in** Miami, FL
 
 ---
